@@ -1,7 +1,9 @@
-import type { NextConfig } from 'next';
+import type { NextConfig } from "next";
+import { basePath } from "./utils/getBasePath";
 
 const nextConfig: NextConfig = {
-  output: 'export',
+  output: "export",
+  basePath,
   images: {
     unoptimized: true,
   },

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sydney-marathon-2024-full",
+    "event_id": "sydney-marathon-2024",
+    "distance": 42.195,
+    "name": "TCS Sydney Marathon",
+    "start_at": "2024-09-01T06:30:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2024-10k",
+    "event_id": "sydney-marathon-2024",
+    "distance": 10,
+    "name": "TCS Sydney Marathon 10km",
+    "start_at": "2024-09-01T08:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2024-5k",
+    "event_id": "sydney-marathon-2024",
+    "distance": 5,
+    "name": "TCS Sydney Mini Marathon",
+    "start_at": "2024-08-31T08:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2025-full",
+    "event_id": "sydney-marathon-2025",
+    "distance": 42.195,
+    "name": "TCS Sydney Marathon",
+    "start_at": "2025-08-31T06:30:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2025-10k",
+    "event_id": "sydney-marathon-2025",
+    "distance": 10,
+    "name": "TCS Sydney Marathon 10km",
+    "start_at": "2025-08-31T08:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2025-5k",
+    "event_id": "sydney-marathon-2025",
+    "distance": 5,
+    "name": "TCS Sydney Mini Marathon",
+    "start_at": "2025-08-30T08:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2026-full",
+    "event_id": "sydney-marathon-2026",
+    "distance": 42.195,
+    "name": "TCS Sydney Marathon",
+    "start_at": "2026-08-30T06:30:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2026-10k",
+    "event_id": "sydney-marathon-2026",
+    "distance": 10,
+    "name": "TCS Sydney Marathon 10km",
+    "start_at": "2026-08-30T08:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2026-5k",
+    "event_id": "sydney-marathon-2026",
+    "distance": 5,
+    "name": "TCS Sydney Mini Marathon",
+    "start_at": "2026-08-29T08:00:00+10:00"
+  },
+  {
+    "id": "berlin-marathon-2024-full",
+    "event_id": "berlin-marathon-2024",
+    "distance": 42.195,
+    "name": "BMW BERLIN-MARATHON",
+    "start_at": "2024-09-29T09:00:00+02:00"
+  },
+  {
+    "id": "berlin-marathon-2024-inline",
+    "event_id": "berlin-marathon-2024",
+    "distance": 42.195,
+    "name": "Inline Skating Marathon",
+    "start_at": "2024-09-28T14:00:00+02:00"
+  },
+  {
+    "id": "berlin-marathon-2025-full",
+    "event_id": "berlin-marathon-2025",
+    "distance": 42.195,
+    "name": "BMW BERLIN-MARATHON",
+    "start_at": "2025-09-28T09:00:00+02:00"
+  },
+  {
+    "id": "berlin-marathon-2025-inline",
+    "event_id": "berlin-marathon-2025",
+    "distance": 42.195,
+    "name": "Inline Skating Marathon",
+    "start_at": "2025-09-27T14:00:00+02:00"
+  },
+  {
+    "id": "berlin-marathon-2026-full",
+    "event_id": "berlin-marathon-2026",
+    "distance": 42.195,
+    "name": "BMW BERLIN-MARATHON",
+    "start_at": "2026-09-27T09:00:00+02:00"
+  },
+  {
+    "id": "berlin-marathon-2026-inline",
+    "event_id": "berlin-marathon-2026",
+    "distance": 42.195,
+    "name": "Inline Skating Marathon",
+    "start_at": "2026-09-26T14:00:00+02:00"
+  },
+  {
+    "id": "boston-marathon-2024-full",
+    "event_id": "boston-marathon-2024",
+    "distance": 42.195,
+    "name": "Boston Marathon",
+    "start_at": "2024-04-15T09:00:00-04:00"
+  },
+  {
+    "id": "boston-marathon-2025-full",
+    "event_id": "boston-marathon-2025",
+    "distance": 42.195,
+    "name": "Boston Marathon",
+    "start_at": "2025-04-21T09:00:00-04:00"
+  },
+  {
+    "id": "boston-marathon-2026-full",
+    "event_id": "boston-marathon-2026",
+    "distance": 42.195,
+    "name": "Boston Marathon",
+    "start_at": "2026-04-20T09:00:00-04:00"
+  }
+]

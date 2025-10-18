@@ -1,0 +1,272 @@
+[
+  {
+    "id": "sydney-marathon-2024",
+    "name": "TCS Sydney Marathon 2024",
+    "festival_id": "sydney-marathon",
+    "start_date": "2024-08-31",
+    "end_date": "2024-09-01",
+    "main_date": "2024-09-01",
+    "price_guideline": {
+      "amount": 230,
+      "currency": "AUD"
+    },
+    "participant_count": 33000,
+    "websites": [
+      {
+        "url": "https://www.sydneymarathon.com.au",
+        "title": "Official Sydney Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.visitnsw.com",
+        "title": "Sydney Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "sydney-marathon-2025",
+    "name": "TCS Sydney Marathon 2025",
+    "festival_id": "sydney-marathon",
+    "start_date": "2025-08-30",
+    "end_date": "2025-08-31",
+    "main_date": "2025-08-31",
+    "price_guideline": {
+      "amount": 250,
+      "currency": "AUD"
+    },
+    "participant_count": 35000,
+    "websites": [
+      {
+        "url": "https://www.sydneymarathon.com.au",
+        "title": "Official Sydney Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.visitnsw.com",
+        "title": "Sydney Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "sydney-marathon-2026",
+    "name": "TCS Sydney Marathon 2026",
+    "festival_id": "sydney-marathon",
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-30",
+    "main_date": "2026-08-30",
+    "price_guideline": {
+      "amount": 280,
+      "currency": "AUD"
+    },
+    "participant_count": 35000,
+    "websites": [
+      {
+        "url": "https://www.sydneymarathon.com.au",
+        "title": "Official Sydney Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.visitnsw.com",
+        "title": "Sydney Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "berlin-marathon-2024",
+    "name": "BMW BERLIN-MARATHON 2024",
+    "festival_id": "berlin-marathon",
+    "start_date": "2024-09-29",
+    "end_date": "2024-09-29",
+    "main_date": "2024-09-29",
+    "price_guideline": {
+      "amount": 165,
+      "currency": "EUR"
+    },
+    "participant_count": 46000,
+    "websites": [
+      {
+        "url": "https://www.bmw-berlin-marathon.com",
+        "title": "Official Berlin Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.visitberlin.de/en",
+        "title": "Berlin Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "berlin-marathon-2025",
+    "name": "BMW BERLIN-MARATHON 2025",
+    "festival_id": "berlin-marathon",
+    "start_date": "2025-09-28",
+    "end_date": "2025-09-28",
+    "main_date": "2025-09-28",
+    "price_guideline": {
+      "amount": 175,
+      "currency": "EUR"
+    },
+    "participant_count": 48000,
+    "websites": [
+      {
+        "url": "https://www.bmw-berlin-marathon.com",
+        "title": "Official Berlin Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.visitberlin.de/en",
+        "title": "Berlin Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "berlin-marathon-2026",
+    "name": "BMW BERLIN-MARATHON 2026",
+    "festival_id": "berlin-marathon",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-27",
+    "main_date": "2026-09-27",
+    "price_guideline": {
+      "amount": 180,
+      "currency": "EUR"
+    },
+    "participant_count": 50000,
+    "websites": [
+      {
+        "url": "https://www.bmw-berlin-marathon.com",
+        "title": "Official Berlin Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.visitberlin.de/en",
+        "title": "Berlin Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "boston-marathon-2024",
+    "name": "Boston Marathon 2024",
+    "festival_id": "boston-marathon",
+    "start_date": "2024-04-15",
+    "end_date": "2024-04-15",
+    "main_date": "2024-04-15",
+    "price_guideline": {
+      "amount": 225,
+      "currency": "USD"
+    },
+    "participant_count": 30000,
+    "websites": [
+      {
+        "url": "https://www.baa.org/races/boston-marathon",
+        "title": "Official Boston Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.bostonusa.com",
+        "title": "Boston Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "boston-marathon-2025",
+    "name": "Boston Marathon 2025",
+    "festival_id": "boston-marathon",
+    "start_date": "2025-04-21",
+    "end_date": "2025-04-21",
+    "main_date": "2025-04-21",
+    "price_guideline": {
+      "amount": 240,
+      "currency": "USD"
+    },
+    "participant_count": 30000,
+    "websites": [
+      {
+        "url": "https://www.baa.org/races/boston-marathon",
+        "title": "Official Boston Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.bostonusa.com",
+        "title": "Boston Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  },
+  {
+    "id": "boston-marathon-2026",
+    "name": "Boston Marathon 2026",
+    "festival_id": "boston-marathon",
+    "start_date": "2026-04-20",
+    "end_date": "2026-04-20",
+    "main_date": "2026-04-20",
+    "price_guideline": {
+      "amount": 250,
+      "currency": "USD"
+    },
+    "participant_count": 30000,
+    "websites": [
+      {
+        "url": "https://www.baa.org/races/boston-marathon",
+        "title": "Official Boston Marathon Website",
+        "blurb": "Complete event information, registration details, and race day logistics"
+      },
+      {
+        "url": "https://www.bostonusa.com",
+        "title": "Boston Tourism Guide",
+        "blurb": "Discover the best places to visit, eat, and stay during your trip"
+      },
+      {
+        "url": "https://www.strava.com",
+        "title": "Strava Route Planning",
+        "blurb": "Explore the course and training routes used by other runners"
+      }
+    ]
+  }
+]

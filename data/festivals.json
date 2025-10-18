@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sydney-marathon",
+    "name": "TCS Sydney Marathon",
+    "location": "Sydney, Australia",
+    "description": "The TCS Sydney Marathon is one of Australia's premier running events, featuring a spectacular course that showcases the city's iconic landmarks. Runners experience breathtaking views of the Sydney Opera House, Harbour Bridge, and stunning coastal scenery. The event attracts thousands of participants from around the world, offering a perfect blend of competitive racing and scenic beauty. Known for its well-organized race day operations and enthusiastic crowd support, it provides an unforgettable running experience through one of the world's most beautiful cities.",
+    "reasons": ["scenic", "technical", "prestigious", "memorable"]
+  },
+  {
+    "id": "berlin-marathon",
+    "name": "BMW BERLIN-MARATHON",
+    "location": "Berlin, Germany",
+    "description": "The BMW BERLIN-MARATHON is one of the world's most prestigious running events and a member of the World Marathon Majors. Known for its flat, fast course that winds through the historic streets of Berlin, it has been the site of numerous world records. The race starts and finishes near the iconic Brandenburg Gate, taking runners past landmarks like the Reichstag, Berlin Cathedral, and the Victory Column. With over 45,000 participants and enthusiastic crowds lining the entire route, the Berlin Marathon offers an electrifying atmosphere and is considered one of the best opportunities to achieve a personal best time.",
+    "reasons": ["prestigious", "fast", "scenic", "worldrecord"]
+  },
+  {
+    "id": "boston-marathon",
+    "name": "Boston Marathon",
+    "location": "Boston, Massachusetts, USA",
+    "description": "The Boston Marathon is the world's oldest annual marathon, first held in 1897, and one of the six World Marathon Majors. This legendary point-to-point course runs from Hopkinton to downtown Boston, featuring the infamous Heartbreak Hill and finishing on Boylston Street. The race is held annually on Patriots' Day (third Monday in April) and requires qualifying times for entry, making it one of the most prestigious marathons to complete. With passionate crowds and deep historical significance, running Boston is a dream for marathoners worldwide and represents the pinnacle of distance running achievement.",
+    "reasons": ["prestigious", "historic", "challenging", "qualifying"]
+  }
+]
