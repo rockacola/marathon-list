@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sydney-marathon",
+    "name": "Sydney Marathon",
+    "location": "Sydney, Australia",
+    "description": "The Sydney Marathon is one of Australia's premier running events, featuring a spectacular course that showcases the city's iconic landmarks. Runners experience breathtaking views of the Sydney Opera House, Harbour Bridge, and stunning coastal scenery. The event attracts thousands of participants from around the world, offering a perfect blend of competitive racing and scenic beauty. Known for its well-organized race day operations and enthusiastic crowd support, it provides an unforgettable running experience through one of the world's most beautiful cities.",
+    "reasons": ["scenic", "technical", "prestigious", "memorable"]
+  }
+]

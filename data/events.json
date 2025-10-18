@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sydney-marathon-2025",
+    "name": "Sydney Marathon 2025",
+    "festival_id": "sydney-marathon",
+    "start_date": "2025-08-30",
+    "end_date": "2025-08-31",
+    "main_date": "2025-08-31",
+    "price_guideline": {
+      "amount": 250,
+      "currency": "AUD"
+    },
+    "participant_count": 35000,
+    "races": [
+      {
+        "id": "marathon",
+        "date": "2025-08-31",
+        "label": "TCS Sydney Marathon",
+        "distance": 42.195
+      },
+      {
+        "id": "10km",
+        "date": "2025-08-31",
+        "label": "TCS Sydney Marathon 10km",
+        "distance": 10
+      },
+      {
+        "id": "5km",
+        "date": "2025-08-30",
+        "label": "TCS Sydney Mini Marathon",
+        "distance": 5
+      }
+    ]
+  },
+  {
+    "id": "sydney-marathon-2026",
+    "name": "Sydney Marathon 2026",
+    "festival_id": "sydney-marathon",
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-30",
+    "main_date": "2026-08-30",
+    "price_guideline": {
+      "amount": 280,
+      "currency": "AUD"
+    },
+    "participant_count": 35000,
+    "races": [
+      {
+        "id": "marathon",
+        "date": "2026-08-30",
+        "label": "TCS Sydney Marathon",
+        "distance": 42.195
+      },
+      {
+        "id": "10km",
+        "date": "2026-08-30",
+        "label": "TCS Sydney Marathon 10km",
+        "distance": 10
+      },
+      {
+        "id": "5km",
+        "date": "2026-08-29",
+        "label": "TCS Sydney Mini Marathon",
+        "distance": 5
+      }
+    ]
+  }
+]

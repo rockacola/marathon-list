@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sydney-marathon-2025-full",
+    "event_id": "sydney-marathon-2025",
+    "distance": 42.195,
+    "name": "TCS Sydney Marathon",
+    "start_at": "2025-08-31T06:30:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2025-half",
+    "event_id": "sydney-marathon-2025",
+    "distance": 21.1,
+    "name": "Sydney Half Marathon",
+    "start_at": "2025-08-31T07:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2025-10k",
+    "event_id": "sydney-marathon-2025",
+    "distance": 10,
+    "name": "Sydney 10K",
+    "start_at": "2025-08-31T08:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2026-full",
+    "event_id": "sydney-marathon-2026",
+    "distance": 42.195,
+    "name": "TCS Sydney Marathon",
+    "start_at": "2026-08-30T06:30:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2026-half",
+    "event_id": "sydney-marathon-2026",
+    "distance": 21.1,
+    "name": "Sydney Half Marathon",
+    "start_at": "2026-08-30T07:00:00+10:00"
+  },
+  {
+    "id": "sydney-marathon-2026-10k",
+    "event_id": "sydney-marathon-2026",
+    "distance": 10,
+    "name": "Sydney 10K",
+    "start_at": "2026-08-30T08:00:00+10:00"
+  }
+]
